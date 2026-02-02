@@ -115,36 +115,41 @@ const developer = {
 
 ---
 
-## **ACHIEVEMENTS**
+## **CURRENT FOCUS**
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=souravrajvi0&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+### **AWS Middleware Automation System**
+
+**Building scalable distributed systems with modern architecture**
 
 </div>
 
----
-
-## **CURRENT FOCUS**
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables': {'primaryColor':'#ffffff','primaryTextColor':'#000','primaryBorderColor':'#ffffff','lineColor':'#ffffff','secondaryColor':'#000','tertiaryColor':'#000'}}}%%
-graph TD
-    A[AWS Middleware Automation] --> B[Microservices Architecture]
-    A --> C[Cloud Infrastructure]
-    B --> D[gRPC Communication]
-    B --> E[Event-Driven Systems]
-    C --> F[Scalability & Performance]
-    C --> G[High Availability]
-    
-    style A fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style E fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    style G fill:#000,stroke:#fff,stroke-width:2px,color:#fff
 ```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│         AWS MIDDLEWARE AUTOMATION SYSTEM                    │
+│                                                             │
+│  ┌─────────────────────┐      ┌─────────────────────┐     │
+│  │   Microservices     │      │  Cloud Infrastructure│     │
+│  │   Architecture      │      │                       │     │
+│  └──────────┬──────────┘      └──────────┬──────────┘     │
+│             │                             │                 │
+│    ┌────────┴────────┐          ┌────────┴────────┐       │
+│    │                 │          │                 │        │
+│  ┌─▼──────────┐  ┌──▼─────────┐ ┌─▼─────────┐ ┌─▼──────┐ │
+│  │   gRPC     │  │   Event    │ │ Scalability│ │  High  │ │
+│  │Communication│ │   Driven   │ │Performance │ │Availability││
+│  └────────────┘  └────────────┘ └───────────┘ └────────┘ │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+**Key Technologies:** Node.js • gRPC • AWS • PostgreSQL • Redis • RabbitMQ
+
+</div>
 
 ---
 
