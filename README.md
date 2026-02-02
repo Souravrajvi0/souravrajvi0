@@ -26,22 +26,15 @@ const developer = {
     location: "India",
     currentProject: "AWS Middleware Automation System",
     
-    expertise: {
-        backend: ["Node.js", "Go", "Java", "Python"],
-        frontend: ["React", "Next.js", "Vue.js", "Svelte"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Cassandra"],
-        cloud: ["AWS", "Google Cloud", "Heroku"],
-        messaging: ["RabbitMQ", "gRPC", "WebSockets"],
-        devOps: ["Docker", "Kubernetes", "Jenkins", "Nginx"]
-    },
-    
     specialization: [
         "Microservices Architecture",
-        "Distributed Systems",
+        "Distributed Systems", 
         "Cloud Infrastructure",
         "API Design & Development",
-        "Real-time Systems"
-    ]
+        "Real-time Communication"
+    ],
+    
+    philosophy: "Building scalable systems that solve real problems"
 };
 ```
 
