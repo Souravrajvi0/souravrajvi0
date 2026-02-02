@@ -99,10 +99,6 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravrajvi0&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravrajvi0&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" alt="Contribution Graph" />
 </div>
 
