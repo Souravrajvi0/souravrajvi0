@@ -99,18 +99,18 @@ const developer = {
 ## **GITHUB STATISTICS**
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=souravrajvi0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=souravrajvi0&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
-
+  <a href="https://github.com/souravrajvi0">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=souravrajvi0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=souravrajvi0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8"/>
+  </a>
 </div>
 
 <div align="center">
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravrajvi0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravrajvi0&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravrajvi0&theme=github_dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravrajvi0&theme=github-compact&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
