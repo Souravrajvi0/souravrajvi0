@@ -8,7 +8,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=souravrajvi0&label=PROFILE+VIEWS&color=black&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=souravrajvi0&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravrajvi)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-black?style=flat-square&logo=google-chrome&logoColor=white)](https://souravportfoliov1.netlify.app/)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-black?style=flat-square&logo=gmail&logoColor=white)](mailto:souravrajvi@gmail.com)
