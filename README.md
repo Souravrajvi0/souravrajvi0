@@ -146,21 +146,6 @@ const developer = {
 
 ---
 
-## **EXPERTISE**
-
-| Area | Technologies |
-|------|-------------|
-| **Backend Development** | Node.js, Express, Go, Java, Spring Boot |
-| **API Design** | RESTful APIs, GraphQL, gRPC |
-| **Databases** | PostgreSQL, MongoDB, Redis, Cassandra |
-| **Cloud Platforms** | AWS (Lambda, EC2, S3, RDS), Google Cloud |
-| **Message Queues** | RabbitMQ, Apache Kafka |
-| **Real-time** | WebSockets, Socket.io |
-| **DevOps** | Docker, Kubernetes, Jenkins, CI/CD |
-| **Monitoring** | Grafana, Prometheus, CloudWatch |
-
----
-
 ## **CONNECT**
 
 <div align="center">
