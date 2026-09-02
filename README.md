@@ -2,6 +2,8 @@
 
 I build backends end-to-end — distributed systems, LLM gateways, middleware automation, and the infrastructure that keeps them reliable. Backend developer focused on microservices, cloud architecture, and open-source work in the AI tooling ecosystem.
 
+**Maintainer @ [InfiniFlow](https://github.com/infiniflow)** — dedicated maintainer of the [MinerU](https://github.com/infiniflow/ragflow) PDF/layout parser in [RAGFlow](https://github.com/infiniflow/ragflow) (90K+ GitHub stars). Own MinerU-related issues and PRs; contributed MonkeyOCR as a dedicated PDF backend ([#19044](https://github.com/infiniflow/ragflow/pull/19044)).
+
 ## Selected work
 
 **Products & systems**
@@ -31,11 +33,11 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 **LLM platforms**
 
+- [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) — **maintainer, MinerU parser** (90K+ ★). 2 merged: dataset navigation tree load failures ([#17668](https://github.com/infiniflow/ragflow/pull/17668)), empty canvas autosave guard ([#18783](https://github.com/infiniflow/ragflow/pull/18783)). Open: MonkeyOCR PDF backend ([#19044](https://github.com/infiniflow/ragflow/pull/19044)), reverse-proxy subpath deployment ([#18890](https://github.com/infiniflow/ragflow/pull/18890)), wiki retrieval fields ([#18787](https://github.com/infiniflow/ragflow/pull/18787)), tenant model-type migration ([#18781](https://github.com/infiniflow/ragflow/pull/18781)).
 - [**langgenius/dify**](https://github.com/langgenius/dify) — 3 merged: legacy `model_type` cleanup ([#39708](https://github.com/langgenius/dify/pull/39708)), slash variable picker guard ([#39761](https://github.com/langgenius/dify/pull/39761)), cached recommended-app template fetches ([#40176](https://github.com/langgenius/dify/pull/40176)). Open: configurable indexing workers ([#41302](https://github.com/langgenius/dify/pull/41302)), in-run tool file grants ([#41300](https://github.com/langgenius/dify/pull/41300)), SSRF proxy timeouts ([#41049](https://github.com/langgenius/dify/pull/41049)).
 - [**Mintplex-Labs/anything-llm**](https://github.com/Mintplex-Labs/anything-llm) — merged: You.com web search for agents ([#6058](https://github.com/Mintplex-Labs/anything-llm/pull/6058)). Open: generic OpenAI sampling passthrough ([#6048](https://github.com/Mintplex-Labs/anything-llm/pull/6048)), saved endpoint connections ([#6065](https://github.com/Mintplex-Labs/anything-llm/pull/6065)).
 - [**BerriAI/litellm**](https://github.com/BerriAI/litellm) — 2 merged: form-encoded video edit/extension bodies ([#36513](https://github.com/BerriAI/litellm/pull/36513)), managed batch output files ([#34092](https://github.com/BerriAI/litellm/pull/34092)). Open: internal metadata leak ([#36412](https://github.com/BerriAI/litellm/pull/36412)), Prometheus unmatched-path labels ([#36410](https://github.com/BerriAI/litellm/pull/36410)), `system_prompt` logging ([#36406](https://github.com/BerriAI/litellm/pull/36406)).
 - [**langfuse/langfuse**](https://github.com/langfuse/langfuse) — open: monitor alert filter evaluation ([#16719](https://github.com/langfuse/langfuse/pull/16719)), comment-mention email persistence ([#16580](https://github.com/langfuse/langfuse/pull/16580)), login rate limits ([#16577](https://github.com/langfuse/langfuse/pull/16577)), observation IO in legacy trace downloads ([#15451](https://github.com/langfuse/langfuse/pull/15451)), admin API to list orgs by email ([#15453](https://github.com/langfuse/langfuse/pull/15453)).
-- [**infiniflow/ragflow**](https://github.com/infiniflow/ragflow) — 2 merged: dataset navigation tree load failures ([#17668](https://github.com/infiniflow/ragflow/pull/17668)), empty canvas autosave guard ([#18783](https://github.com/infiniflow/ragflow/pull/18783)). Open: reverse-proxy subpath deployment ([#18890](https://github.com/infiniflow/ragflow/pull/18890)), wiki retrieval fields ([#18787](https://github.com/infiniflow/ragflow/pull/18787)), tenant model-type migration ([#18781](https://github.com/infiniflow/ragflow/pull/18781)).
 
 **Agents & orchestration**
 
@@ -53,7 +55,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 ## Stack
 
-Node.js · TypeScript · Python · Go · Java · Spring Boot · gRPC · PostgreSQL · Redis · RabbitMQ · MongoDB · AWS · Docker · Kubernetes · React · Next.js · Fastify · Dify · Langfuse · LiteLLM · RAGFlow · Unsloth
+Node.js · TypeScript · Python · Go · Java · Spring Boot · gRPC · PostgreSQL · Redis · RabbitMQ · MongoDB · AWS · Docker · Kubernetes · React · Next.js · Fastify · Dify · Langfuse · LiteLLM · RAGFlow · MinerU · Unsloth
 
 ## Contact
 
