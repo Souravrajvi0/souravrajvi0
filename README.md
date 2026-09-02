@@ -27,7 +27,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 ## Open source
 
-**42 merged** upstream PRs plus active work across LLM platforms, local inference, agents, and ML infrastructure. [All pull requests](https://github.com/search?q=author%3ASouravrajvi0+is%3Apr+is%3Amerged+-user%3ASouravrajvi0&type=pullrequests).
+**45 merged** upstream PRs plus active work across LLM platforms, local inference, agents, and ML infrastructure. [All pull requests](https://github.com/search?q=author%3ASouravrajvi0+is%3Apr+is%3Amerged+-user%3ASouravrajvi0&type=pullrequests).
 
 **LLM platforms**
 
@@ -43,7 +43,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 **Local training & inference**
 
-- [**unslothai/unsloth**](https://github.com/unslothai/unsloth) — **31 merged** across Studio, installer, and inference. Recent merges include custom TTS endpoint repair ([#9905](https://github.com/unslothai/unsloth/pull/9905)), local agent provider routing ([#9871](https://github.com/unslothai/unsloth/pull/9871)), GGUF auto-compaction settings ([#9774](https://github.com/unslothai/unsloth/pull/9774)), Ollama thinking / `reasoning_effort` ([#9770](https://github.com/unslothai/unsloth/pull/9770)), and GGUF embedding auto-enable ([#9149](https://github.com/unslothai/unsloth/pull/9149)). Open: API tokens on plain HTTP ([#9906](https://github.com/unslothai/unsloth/pull/9906)), resumable failed downloads ([#9782](https://github.com/unslothai/unsloth/pull/9782)), empty `web_search` recovery ([#9716](https://github.com/unslothai/unsloth/pull/9716)). [All Unsloth PRs](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+author%3ASouravrajvi0).
+- [**unslothai/unsloth**](https://github.com/unslothai/unsloth) — **34 merged** across Studio, installer, and inference. Recent merges include llama.cpp update rate-limit handling ([#9980](https://github.com/unslothai/unsloth/pull/9980)), empty Downloads list entry ([#9849](https://github.com/unslothai/unsloth/pull/9849)), Xet stall HTTP resume ([#10045](https://github.com/unslothai/unsloth/pull/10045)), custom TTS endpoint repair ([#9905](https://github.com/unslothai/unsloth/pull/9905)), and local agent provider routing ([#9871](https://github.com/unslothai/unsloth/pull/9871)). Open: API tokens on plain HTTP ([#9906](https://github.com/unslothai/unsloth/pull/9906)), empty `web_search` recovery ([#9716](https://github.com/unslothai/unsloth/pull/9716)), FP8/FP4 compressor consent ([#9554](https://github.com/unslothai/unsloth/pull/9554)). [All Unsloth PRs](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+author%3ASouravrajvi0).
 - [**unslothai/unsloth-zoo**](https://github.com/unslothai/unsloth-zoo) — open: forward `enable_thinking=False` in the Qwen3.8 vision collator ([#1072](https://github.com/unslothai/unsloth-zoo/pull/1072)).
 - [**langgenius/dify-official-plugins**](https://github.com/langgenius/dify-official-plugins) — merged: parse plugin files when Dify already has an event loop ([#3756](https://github.com/langgenius/dify-official-plugins/pull/3756)). Open: Cohere embed-v4.0 models ([#3769](https://github.com/langgenius/dify-official-plugins/pull/3769)), Tongyi temperature floor ([#3767](https://github.com/langgenius/dify-official-plugins/pull/3767)).
 
