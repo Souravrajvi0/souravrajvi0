@@ -4,28 +4,9 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 **Maintainer @ [InfiniFlow](https://github.com/infiniflow)** — dedicated maintainer of the [MinerU](https://github.com/infiniflow/ragflow) PDF/layout parser in [RAGFlow](https://github.com/infiniflow/ragflow) (90K+ GitHub stars). Own MinerU-related issues and PRs; contributed MonkeyOCR as a dedicated PDF backend ([#19044](https://github.com/infiniflow/ragflow/pull/19044)).
 
-## Selected work
-
-**Products & systems**
+## Personal project
 
 - [**OPENINFER**](https://github.com/Souravrajvi0/OPENINFER) — self-hosted LLM gateway with routing, guardrails, retrieval, budgets, tracing, evaluations, and an admin console. Includes `oi`, a hardware-aware CLI for finding and running local open-source models. Live at [openinference.tech](https://openinference.tech).
-- [**netsuite-middleware**](https://github.com/Souravrajvi0/netsuite-middleware) — AWS middleware automation. Microservices with gRPC, event-driven workflows, PostgreSQL, Redis, and RabbitMQ for NetSuite integration at scale.
-- [**netssuite**](https://github.com/Souravrajvi0/netssuite) — production-ready AI knowledge-base assistant for NetSuite. Multi-client deployment with dynamic URL generation and an embedded chatbot layer.
-- [**NETFLIX_GPT**](https://github.com/Souravrajvi0/NETFLIX_GPT) — AI-driven Netflix discovery with natural-language search and personalized recommendations.
-
-**Backend & APIs**
-
-- [**API_Gateway_Flights**](https://github.com/Souravrajvi0/API_Gateway_Flights) — flight booking API gateway with service routing and aggregation.
-- [**axio-backend**](https://github.com/Souravrajvi0/axio-backend) — Node.js backend services for product APIs.
-- [**dsatrackerllmbackend**](https://github.com/Souravrajvi0/dsatrackerllmbackend) — LLM-backed DSA progress tracking backend.
-- [**telejob**](https://github.com/Souravrajvi0/telejob) — job-hunting bot that filters LinkedIn and Telegram posts with regex + Gemini, then tracks applications in Telegram.
-
-**Learning & tooling**
-
-- [**LEETCODE-DSA**](https://github.com/Souravrajvi0/LEETCODE-DSA) — curated LeetCode solutions in C++.
-- [**AlgorithmPractising**](https://github.com/Souravrajvi0/AlgorithmPractising) — algorithm practice workspace in TypeScript.
-- [**DEV-NOTES**](https://github.com/Souravrajvi0/DEV-NOTES) — Obsidian-synced notes on Go, distributed systems, and backend patterns.
-- [**llm-bot**](https://github.com/Souravrajvi0/llm-bot) — JavaScript LLM bot experiments.
 
 ## Open source
 
