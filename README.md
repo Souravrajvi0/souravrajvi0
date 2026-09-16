@@ -44,7 +44,6 @@ Node.js · TypeScript · Python · Go · Java · Spring Boot · gRPC · PostgreS
 
 ## Contact
 
-- Portfolio — [souravportfoliov1.netlify.app](https://souravportfoliov1.netlify.app/)
 - LinkedIn — [linkedin.com/in/souravrajvi](https://linkedin.com/in/souravrajvi)
 - Email — [souravrajvi@gmail.com](mailto:souravrajvi@gmail.com)
 - GitHub — [github.com/Souravrajvi0](https://github.com/Souravrajvi0)
