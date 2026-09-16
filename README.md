@@ -6,7 +6,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 ## Personal project
 
-- [**openinference**](https://github.com/Souravrajvi0/openinference) — self-hosted AI gateway and observability stack (SentinelAI): multi-provider routing, guardrails, hybrid RAG, agents, traces, evals, and admin APIs. Fastify · PostgreSQL/pgvector · Redis/BullMQ · Docker Compose. Live demo — [64.227.178.3](http://64.227.178.3) · [API docs](http://64.227.178.3/api-docs).
+- [**openinference**](https://github.com/Souravrajvi0/openinference) — one repo, two products: **SentinelAI**, a self-hosted AI gateway (multi-provider routing, guardrails, hybrid RAG, agents, traces, evals, React admin) and **[`@openinference/cli`](https://github.com/Souravrajvi0/openinference/tree/main/packages/cli)** (`oi`), a publishable CLI for hardware-aware local models and a project-local agent harness. Stack: Fastify · PostgreSQL/pgvector · Redis/BullMQ · Docker Compose. Live — [demo](http://64.227.178.3) · [API docs](http://64.227.178.3/api-docs) · [CLI guide](https://openinference.tech/cli).
 
 ## Open source
 
