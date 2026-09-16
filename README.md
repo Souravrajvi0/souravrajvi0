@@ -1,12 +1,14 @@
 # Sourav Rajvi
 
+![Profile views](https://komarev.com/ghpvc/?username=Souravrajvi0&label=Profile%20views&color=0e75b6&style=flat-square)
+
 I build backends end-to-end — distributed systems, LLM gateways, middleware automation, and the infrastructure that keeps them reliable. Backend developer focused on microservices, cloud architecture, and open-source work in the AI tooling ecosystem.
 
 **Maintainer @ [InfiniFlow](https://github.com/infiniflow)** — dedicated maintainer of the [MinerU](https://github.com/infiniflow/ragflow) PDF/layout parser in [RAGFlow](https://github.com/infiniflow/ragflow) (90K+ GitHub stars). Own MinerU-related issues and PRs; contributed MonkeyOCR as a dedicated PDF backend ([#19044](https://github.com/infiniflow/ragflow/pull/19044)).
 
 ## Personal project
 
-- [**OPENINFER**](https://github.com/Souravrajvi0/OPENINFER) — self-hosted LLM gateway with routing, guardrails, retrieval, budgets, tracing, evaluations, and an admin console. Includes `oi`, a hardware-aware CLI for finding and running local open-source models. Live at [openinference.tech](https://openinference.tech).
+- [**openinference**](https://github.com/Souravrajvi0/openinference) — one repo, two products: **SentinelAI**, a self-hosted AI gateway (multi-provider routing, guardrails, hybrid RAG, agents, traces, evals, React admin) and **[`@openinference/cli`](https://github.com/Souravrajvi0/openinference/tree/main/packages/cli)** (`oi`), a publishable CLI for hardware-aware local models and a project-local agent harness. Stack: Fastify · PostgreSQL/pgvector · Redis/BullMQ · Docker Compose. Live — [demo](http://64.227.178.3) · [API docs](http://64.227.178.3/api-docs) · [CLI guide](https://openinference.tech/cli).
 
 ## Open source
 
