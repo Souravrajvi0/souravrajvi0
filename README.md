@@ -6,7 +6,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 ## Personal project
 
-- [**OPENINFER**](https://github.com/Souravrajvi0/OPENINFER) — self-hosted LLM gateway with routing, guardrails, retrieval, budgets, tracing, evaluations, and an admin console. Includes `oi`, a hardware-aware CLI for finding and running local open-source models. Live at [openinference.tech](https://openinference.tech).
+- [**openinference**](https://github.com/Souravrajvi0/openinference) — self-hosted AI gateway and observability stack (SentinelAI): multi-provider routing, guardrails, hybrid RAG, agents, traces, evals, and admin APIs. Fastify · PostgreSQL/pgvector · Redis/BullMQ · Docker Compose. Live demo — [64.227.178.3](http://64.227.178.3) · [API docs](http://64.227.178.3/api-docs).
 
 ## Open source
 
