@@ -12,7 +12,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 ## Open source
 
-**100+** upstream pull requests in 2026 **merged and reviewed** (own repos excluded) across LLM platforms, local inference, agents, and ML infrastructure. [Merged PRs](https://github.com/search?q=author%3ASouravrajvi0+is%3Apr+is%3Amerged+-user%3ASouravrajvi0&type=pullrequests) · [Reviewed PRs](https://github.com/search?q=is%3Apr+reviewed-by%3ASouravrajvi0+-user%3ASouravrajvi0&type=pullrequests).
+**100+** upstream pull requests merged and reviewed **in 2026** (own repos excluded) across LLM platforms, local inference, agents, and ML infrastructure. [Merged PRs](https://github.com/search?q=author%3ASouravrajvi0+is%3Apr+is%3Amerged+-user%3ASouravrajvi0&type=pullrequests) · [Reviewed PRs](https://github.com/search?q=is%3Apr+reviewed-by%3ASouravrajvi0+-user%3ASouravrajvi0&type=pullrequests).
 
 **LLM platforms**
 
