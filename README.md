@@ -28,10 +28,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 **Local training & inference**
 
-- [**unslothai/unsloth**](https://github.com/unslothai/unsloth) — Studio, installer, and inference (75K+ ★).
-
-  <details>
-  <summary>Merged pull requests</summary>
+- [**unslothai/unsloth**](https://github.com/unslothai/unsloth) — Studio, installer, and inference (75K+ ★). Merged:
 
   - [#7297](https://github.com/unslothai/unsloth/pull/7297) — fix(studio): show chat sidebar menu on touch devices
   - [#7298](https://github.com/unslothai/unsloth/pull/7298) — fix(studio): persist connection model selections for remote clients
@@ -76,8 +73,6 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
   - [#10708](https://github.com/unslothai/unsloth/pull/10708) — Studio: add Download Dataset button for Data Recipes
   - [#10849](https://github.com/unslothai/unsloth/pull/10849) — fix(studio): bundle hf-xet for Desktop large Hub downloads
   - [#10851](https://github.com/unslothai/unsloth/pull/10851) — fix(studio): share Run settings draft across sidebar and model picker
-
-  </details>
 
   Open: block-split long backslash lines ([#11501](https://github.com/unslothai/unsloth/pull/11501)), reconcile saved assistant updates ([#11500](https://github.com/unslothai/unsloth/pull/11500)), configurable RAG upload extensions ([#11499](https://github.com/unslothai/unsloth/pull/11499)), llama extra args in model baseline ([#10870](https://github.com/unslothai/unsloth/pull/10870)), Run settings editor keys ([#10869](https://github.com/unslothai/unsloth/pull/10869)). [All Unsloth PRs](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+author%3ASouravrajvi0).
 - [**unslothai/unsloth-zoo**](https://github.com/unslothai/unsloth-zoo) — open: GPT-OSS optional import cascade ([#1198](https://github.com/unslothai/unsloth-zoo/pull/1198)), FLA autotune key work ([#1195](https://github.com/unslothai/unsloth-zoo/pull/1195)), Qwen3.8 vision `enable_thinking` ([#1072](https://github.com/unslothai/unsloth-zoo/pull/1072)).
