@@ -2,8 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Souravrajvi0&label=Profile%20views&color=0e75b6&style=flat-square)
 
-https://souravrajvi0.github.io/
-
 I build backends end-to-end — distributed systems, LLM gateways, middleware automation, and the infrastructure that keeps them reliable. Backend developer focused on microservices, cloud architecture, and open-source work in the AI tooling ecosystem.
 
 **Maintainer @ [InfiniFlow](https://github.com/infiniflow)** — dedicated maintainer of the [MinerU](https://github.com/infiniflow/ragflow) PDF/layout parser in [RAGFlow](https://github.com/infiniflow/ragflow) (90K+ GitHub stars). Own MinerU-related issues and PRs; contributed MonkeyOCR as a dedicated PDF backend ([#19044](https://github.com/infiniflow/ragflow/pull/19044)).
@@ -92,6 +90,7 @@ Node.js · TypeScript · Python · Go · Java · Spring Boot · gRPC · PostgreS
 
 ## Contact
 
+- Portfolio — [souravrajvi0.github.io](https://souravrajvi0.github.io/)
 - LinkedIn — [linkedin.com/in/souravrajvi](https://linkedin.com/in/souravrajvi)
 - Email — [souravrajvi@gmail.com](mailto:souravrajvi@gmail.com)
 - GitHub — [github.com/Souravrajvi0](https://github.com/Souravrajvi0)
