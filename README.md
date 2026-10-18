@@ -6,9 +6,10 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 **Maintainer @ [InfiniFlow](https://github.com/infiniflow)** — dedicated maintainer of the [MinerU](https://github.com/infiniflow/ragflow) PDF/layout parser in [RAGFlow](https://github.com/infiniflow/ragflow) (90K+ GitHub stars). Own MinerU-related issues and PRs; contributed MonkeyOCR as a dedicated PDF backend ([#19044](https://github.com/infiniflow/ragflow/pull/19044)).
 
-## Personal project
+## Personal projects
 
 - [**openinference**](https://github.com/Souravrajvi0/openinference) — one repo, two products: **SentinelAI**, a self-hosted AI gateway (multi-provider routing, guardrails, hybrid RAG, agents, traces, evals, React admin) and **[`@openinference/cli`](https://github.com/Souravrajvi0/openinference/tree/main/packages/cli)** (`oi`), a publishable CLI for hardware-aware local models and a project-local agent harness. Stack: Fastify · PostgreSQL/pgvector · Redis/BullMQ · Docker Compose. Live — [demo](http://64.227.178.3) · [API docs](http://64.227.178.3/api-docs) · [CLI guide](https://openinference.tech/cli).
+- [**compacter**](https://github.com/Souravrajvi0/compacter) — context control for CLI coding agents (Claude Code, Codex, opencode, Aider). You choose which messages are kept verbatim, summarized or dropped, preview the compaction before it's applied, and carry selected context into new chats. Python CLI with an npm launcher · 170 tests · [`npx compacter doctor`](https://www.npmjs.com/package/compacter).
 
 ## Open source
 
