@@ -13,7 +13,7 @@ I build backends end-to-end — distributed systems, LLM gateways, middleware au
 
 ## Open source
 
-**140+** upstream pull requests merged and reviewed **in 2026** (own repos excluded) across LLM platforms, agents, runtimes, security advisories, and scientific libraries. The list below is curated — the searches cover everything. [Merged PRs](https://github.com/search?q=author%3ASouravrajvi0+is%3Apr+is%3Amerged+-user%3ASouravrajvi0&type=pullrequests) · [Reviewed PRs](https://github.com/search?q=is%3Apr+reviewed-by%3ASouravrajvi0+-user%3ASouravrajvi0&type=pullrequests).
+**150+** upstream pull requests merged and reviewed **in 2026** (own repos excluded) across LLM platforms, agents, runtimes, security advisories, and scientific libraries. The list below is curated — the searches cover everything. [Merged PRs](https://github.com/search?q=author%3ASouravrajvi0+is%3Apr+is%3Amerged+-user%3ASouravrajvi0&type=pullrequests) · [Reviewed PRs](https://github.com/search?q=is%3Apr+reviewed-by%3ASouravrajvi0+-user%3ASouravrajvi0&type=pullrequests).
 
 **Security research & hardening**
 
